@@ -1,15 +1,15 @@
 <h1 align="center"> Bank in Go 👨‍💻</h1>
 </br>
 
-Project developed in Go, applying OOP practices to create a Commercial Bank system. The project registers clients and creates two types of accounts: Savings and Checking.
+Project developed in Go, applying POO practices to create a Commercial Bank system. The project registers clients and creates two types of accounts: Savings and Checking.
 
 </br>
 
 # Requirements:
 
 <ul>
-  <li>Utilizar Go </li>
-  <li>Utilizar GitHub para armazenamento do código</li>
+  <li>Use Go </li>
+  <li>Use GitHub for code storage</li>
 </ul>
 
 # Environment Prerequisites:
