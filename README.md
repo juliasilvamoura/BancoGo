@@ -4,7 +4,6 @@
 Project developed in Go, applying OOP practices to create a Commercial Bank system. The project registers clients and creates two types of accounts: Savings and Checking.
 
 </br>
-</br>
 
 # Requirements:
 
@@ -26,7 +25,7 @@ Install Go 1.23.2
 
 # Technologies:
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
+<img width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
 <img width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </p>
 
